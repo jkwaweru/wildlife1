@@ -8,7 +8,7 @@ John kamau Waweru
 ## Description;
 This is a java spark app for the Forest Service to conduct an environmental impact study in 2023.There is an app.java file of the code, used for development and the algorithm report that I turned in as part of the assignment.
 ## Live Link
-This site is live at (https://github.com/jkwaweru/Wildlife.git)
+This site is live at (https://github.com/jkwaweru/wildlife1.git)
 
 ## Setup/Installation Requirements
 Copy the URL (either select the text and copy it manually, or click on the clipboard button next to the URL). Clone the repository using the git clone command in the terminal. The terminal will print some feedback that it has successfully cloned the repository.
